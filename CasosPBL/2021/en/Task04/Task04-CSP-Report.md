@@ -329,4 +329,8 @@ Differentiate, Classify, Compare, Contrast, Identify, Justify
 |                                                               |                                                            | Analytical and Critical Thinking       | **Apply**                                         |
 | **Differentiate classifications of formal grammars**          | Inventive, Collaborative, Responsible, Proactive           | Regular Languages                      | **Understand (Differentiate, Compare, Contrast)** |
 |                                                               |                                                            | Analytical and Critical Thinking       | **Apply**                                         |
-
+|  |  |                                        |       | 
+| *Testing Automata Using Simulators (REUSED)* | Collaborative, Responsible, Proactive, Creative | Automata over Infinite Objects | Apply (Experiment, Relate, Simulate) |
+|  |  | Problem Solving and Troubleshooting (FPK) | Apply (Diagnose, Debug, Refine) |
+|  |  |                                        |       | 
+| *Collaborative Technical Report Writing (REUSED* | Collaborative, Meticulous, Responsible | Written Communication (FPK) | Apply (Write, Structure, Revise, Refine) |

@@ -17,7 +17,8 @@ Based on these recommendations, **several refinements were implemented** to impr
 ### **Knowledge Granularity Refinement**  
 Following the reviewers' insights, **the knowledge classification system was updated from CC2012 to CS2013**, which offers a more **fine-grained** and **hierarchical** taxonomy. This change ensures **greater specificity**, making competencies **more reusable** and **better aligned with educational tasks**.  
   - **"Requirements Analysis"** was **redefined** as **"Requirements Engineering"**.  
-  
+
+
 
 ## Revised Competency Specification for Task 02
 
@@ -60,9 +61,9 @@ This competency requires learners to analyze the demands of a computational task
 
 Through the use of critical reasoning and modeling skills, students are expected to justify the use of specific Turing Machine variants and effectively implement them to represent or simulate solutions to formal problems in computer science.
 
+---
 
-
-## Competency Adjustments Table
+## Table of Competencies for Task: *Traffic Control*
 
 | **Competency**                                     | **Dispositions**                                               | **Knowledge**                          | **Skill**                                          |
 |----------------------------------------------------|----------------------------------------------------------------|----------------------------------------|----------------------------------------------------|
@@ -71,12 +72,13 @@ Through the use of critical reasoning and modeling skills, students are expected
 |                                                    |                                                                | Analytical and Critical Thinking (FPK) | **Apply (Decompose, Identify)**                    |
 |                                                    |                                                                |                                        |                                                    |
 | **Identify Turing Machine Variants**               | Investigative, Collaborative, Responsible, Proactive           | Turing Machines                 | **Understand (Differentiate, Recognize, Explain)** |              |                                      
-|                                                    |                                                                | Analytical and Critical Thinking (FPK) | **Apply (Evaluate, Decide, Justify)**              |
+|                                                    |                                                                | Analytical and Critical Thinking (FPK) | **Apply**              |
 |                                                    |                                                                |                                        |                                                    |
 | **Apply Turing Machine Variants**            | Inventive, Responsible, Proactive, Collaborative, Creative     | Turing Machines                 | **Apply (Use, Adapt, Implement)**                  |
-|                                                    |                                                                | Analytical and Critical Thinking (FPK) | **Apply (Evaluate, Decide, Select)**               |
-|  |                                        |       |       
-| **Write a technical report.** | Collaborative, Meticulous, Responsible | Written Communication | **Apply** |
+|                                                    |                                                                | Analytical and Critical Thinking (FPK) | **Apply**               |
 |                                        |                                                    |
 | **Testing Turing Machines Using Simulators** | Collaborative, Responsible, Proactive, Creative | Turing Machines                           | **Apply (Simulate, Evaluate, Verify)** |
 |                                              |                                                     | Problem Solving and Troubleshooting | **Apply (Diagnose, Debug, Refine)**    |
+|         |                                 | Modeling and Simulation | **Apply** |
+|  |                                        |       |       
+| *Write a technical report (REUSED)* | Collaborative, Meticulous, Responsible | Written Communication | Apply |

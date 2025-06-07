@@ -102,15 +102,18 @@ Together, they ensure that learners are equipped to bridge the gap between **abs
 
 
 
+
 ## 4. Competency Definitions
 
 Competencies are specified based on the **Learning Objectives (LOs)** identified in the task analysis.
+
 
 ### Competency Reuse 
 
 Since one of the deliverables for this task is a **technical report** formatted according to the academic standards of the **Brazilian Computer Society (SBC)**, we reuse the previously defined competency from *Task01*:
 
 > Collaborative Technical Report Writing
+
 
 This competency involves planning, structuring, and composing a comprehensive document that clearly communicates the problem-solving process, decisions made, and justifications for the implemented model. It reinforces essential skills in technical writing, team collaboration, and documentation.
 
@@ -492,14 +495,15 @@ To clarify learning expectations, the following verb annotations highlight key a
 
 | **Competency**                               | **Dispositions**                                    | **Knowledge**                                 | **Skill**                              |
 | -------------------------------------------- | --------------------------------------------------- | --------------------------------------------- | -------------------------------------- |
-| **Testing Turing Machines Using Simulators** | **Collaborative, Responsible, Proactive, Creative** | **Turing Machines**                           | **Apply (Simulate, Evaluate, Verify)** |
-|                                              |                                                     | **Problem Solving and Troubleshooting (FPK)** | **Apply (Diagnose, Debug, Refine)**    |
+| **Testing Turing Machines Using Simulators** | **Collaborative, Responsible, Proactive, Creative** | Turing Machines                           | **Apply (Simulate, Evaluate, Verify)** |
+|                                              |                                                     | Problem Solving and Troubleshooting (FPK) | **Apply (Diagnose, Debug, Refine)**    |
+|         |                                 | Modeling and Simulation | **Apply** |
 
 
+---
 
 
-
-## Summary Table of All Competencies – Task: Traffic Control
+## Table of Competencies for Task: *Traffic Control*
 
 | **Competency**                                     | **Dispositions**                                               | **Knowledge**                          | **Skill**                                          |
 |----------------------------------------------------|----------------------------------------------------------------|----------------------------------------|----------------------------------------------------|
@@ -517,8 +521,9 @@ To clarify learning expectations, the following verb annotations highlight key a
 |                                        |                                                    |
 | **Testing Turing Machines Using Simulators** | Collaborative, Responsible, Proactive, Creative | Turing Machines                           | **Apply (Simulate, Evaluate, Verify)** |
 |                                              |                                                     | Problem Solving and Troubleshooting | **Apply (Diagnose, Debug, Refine)**    |
-
-
+|         |                                 | Modeling and Simulation | **Apply** |
+|  |  |                                        |       | 
+| *Collaborative Technical Report Writing (REUSED)* | Collaborative, Meticulous, Responsible | Written Communication (FPK) | Apply (Write, Structure, Revise, Refine) |
 
 
 

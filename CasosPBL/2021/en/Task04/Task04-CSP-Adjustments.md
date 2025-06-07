@@ -167,17 +167,22 @@ Claro! Aqui está a **tabela unificada** com todas as informações combinadas d
 
 | **Competency**                                            | **Dispositions**                                           | **Knowledge**                    | **Skill**                                             |
 | --------------------------------------------------------- | ---------------------------------------------------------- | -------------------------------- | ----------------------------------------------------- |
-| Develop problem-solving solutions using Pushdown Automata | Inventive, Collaborative, Responsible, Proactive, Creative | Pushdown Automata                | **Apply** (*Develop, Model*)                          |
+| **Develop problem-solving solutions using Pushdown Automata** | Inventive, Collaborative, Responsible, Proactive, Creative | Pushdown Automata                | **Apply** (*Develop, Model*)                          |
 |                                                           |                                                            | Requirements Engineering         | **Apply** (*Specify, Structure*)                      |
 |                                                           |                                                            | Analytical and Critical Thinking | **Apply** (*Decompose, Evaluate*)                     |
 |                                        |                                                    |
-| Interpret rule-based notation                             | Inventive, Collaborative, Responsible, Proactive, Creative | Pushdown Automata                | **Understand** (*Recognize, Explain, Compare*)        |
+| **Interpret rule-based notation**                             | Inventive, Collaborative, Responsible, Proactive, Creative | Pushdown Automata                | **Understand** (*Recognize, Explain, Compare*)        |
 |                                                           |                                                            | Context-Free Grammars            | **Understand** (*Interpret, Construct, Relate*)       |
 |                                                           |                                                            | Regular Languages                | **Understand** (*Interpret, Construct, Relate*)       |
 |                                                           |                                                            | Analytical and Critical Thinking | **Apply** (*Refine, Validate*)                        |
 |                                        |                                                    |
-| Differentiate classifications of formal grammars          | Inventive, Collaborative, Responsible, Proactive           | Regular Languages                | **Understand** (*Identify, Classify, Compare*)        |
+| **Differentiate classifications of formal grammars**          | Inventive, Collaborative, Responsible, Proactive           | Regular Languages                | **Understand** (*Identify, Classify, Compare*)        |
 |                                                           |                                                            | Context-Free Languages           | **Understand** (*Recognize, Describe, Differentiate*) |
 |                                                           |                                                            | Analytical and Critical Thinking | **Analyze**                      |
-
+|  |  |                                        |       |       
+|  *Test automata using simulators (REUSED)* | Investigative, Collaborative, Responsible, Proactive, Creative | Finite State Machines | Apply (Experiment, Relate, Simulate) |
+|         |                                                                   | Problem Solving and Troubleshooting (FPK) | Apply |
+|         |                                                                   | Modeling and Simulation | Apply |
+|  |  |                                        |       |       
+| *Write a technical report (REUSED)* | Collaborative, Meticulous, Responsible | Written Communication (FPK) | Apply |
 

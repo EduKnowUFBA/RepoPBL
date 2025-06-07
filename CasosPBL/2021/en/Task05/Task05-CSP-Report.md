@@ -116,7 +116,6 @@ As a result, Task 05 leverages an established and validated set of competencies 
 |  |                                        |       |       
 | **Write a technical report.** | Collaborative, Meticulous, Responsible | Written Communication (FPK) | **Apply** |
 |  |  |                                        |       |       
-| **Test automata using simulators.** | Investigative, Collaborative, Responsible, Proactive, Creative | Finite State Machines | **Apply (Experiment, Relate, Simulate)** |
-|         |                                   |   Problem Solving and Troubleshooting (FPK) | **Apply** |
-|         |                                   |   Modeling and Simulation | **Apply** |
-
+| **Testing Turing Machines Using Simulators** | Collaborative, Responsible, Proactive, Creative | Turing Machines                           | **Apply (Simulate, Evaluate, Verify)** |
+|                                              |                                                     | Problem Solving and Troubleshooting | **Apply (Diagnose, Debug, Refine)**    |
+|         |                                 | Modeling and Simulation | **Apply** |

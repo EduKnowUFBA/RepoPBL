@@ -483,7 +483,7 @@ To provide clarity on competency expectations, the following verb annotations de
 
 
 
-## Summary Table of All Competencies
+## Table of Competencies for Task: *The Farmer Robot*
 
 | **Competency**                                                    | **Dispositions**                                           | **Knowledge**                          | **Skill**                                 |
 | ----------------------------------------------------------------- | ---------------------------------------------------------- | -------------------------------------- | ----------------------------------------- |
@@ -501,5 +501,9 @@ To provide clarity on competency expectations, the following verb annotations de
 | **Differentiate the Classifications of Formal Grammars** | Collaborative, Responsible, Proactive, Investigative | Regular Languages         | **Understand (Differentiate, Compare, Classify)** |
 |                                                          |                                                      | Requirements Engineering                    | **Apply (Align)**                                 |
 |                                                          |                                                      | Analytical and Critical Thinking (FPK)      | **Apply**                                         |
-
+|  |  |                                        |       | 
+| *Testing Automata Using Simulators (REUSED)* | Collaborative, Responsible, Proactive, Creative | Automata over Infinite Objects | Apply (Experiment, Relate, Simulate) |
+|  |  | Problem Solving and Troubleshooting (FPK) | Apply (Diagnose, Debug, Refine) |
+|  |  |                                        |       | 
+| *Collaborative Technical Report Writing (REUSED)* | Collaborative, Meticulous, Responsible | Written Communication (FPK) | Apply (Write, Structure, Revise, Refine) |
 

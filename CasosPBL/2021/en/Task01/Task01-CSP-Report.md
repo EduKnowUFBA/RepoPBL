@@ -296,7 +296,7 @@ To accurately assess the required skills for this competency, each knowledge com
 | **Competency** | **Dispositions** | **Knowledge** | **Skill** |
 |---------------|-----------------|--------------|-----------|
 | **Determine when to use a DFA or NFA** | **Investigative, Collaborative, Responsible, Proactive, Creative** | **Automata over Infinite Objects** | **Understand (Compare)** |
-| | | **Analytical and Critical Thinking (FPK)** | **Apply (Evaluate & Decide)** |
+| | | **Analytical and Critical Thinking (FPK)** | **Apply (Evaluate, Decide)** |
 
 
 
@@ -580,9 +580,9 @@ To clarify expected learning outcomes, the following action verbs define key stu
 |---------------|-----------------|--------------|-----------|
 | **Collaborative Technical Report Writing** | Collaborative, Meticulous, Responsible | **Written Communication (FPK)** | **Apply (Write, Structure, Revise, Refine)** |
 
+---
 
-
-## Summary Table of Competencies for Task: *The Vending Machine for Sodas and Snacks*
+## Table of Competencies for Task: *The Vending Machine for Sodas and Snacks*
 
 | **Competency** | **Dispositions** | **Knowledge** | **Skill** |
 |----------------|------------------|---------------|-----------|
