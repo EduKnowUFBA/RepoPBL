@@ -1,4 +1,4 @@
-# **Surveillance Drone Prototype: Competency-Oriented Report**
+# Competency Specification Report: Task201 - Surveillance Drone Prototype
 
 **Team Members**: Lais Salvador, Edeyson A. Gomes, Luiz Gavaza
 **Date**: March 21, 2022
@@ -11,7 +11,7 @@ The problem scenario presented by SOS Florestal involves the development of a pr
 Given the functional requirements and limited budget, students proposed modeling the system behavior using a **Finite State Machine (FSM)**. This approach allows for representing the system's states and transitions triggered by input events, ensuring a deterministic and transparent operation model. The use of FSM also aligns with the learning objectives of the course, enabling students to apply theoretical concepts to a practical, real-world problem.
 
 
-## 2. Knowledge Specification
+## 2. Knowledge Enumeration
 
 To solve the problem effectively, the following core knowledge areas are required:
 
@@ -48,32 +48,24 @@ Develop and consolidate the ability to model, implement, and document computatio
 ## 4. Competency Definition
 
 
-### Reusability Note 
+### Reusability Note
 
-To address the Learning Objectives, we reuse the competency defined in Task01 – The Vending Machine for Sodas and Snacks. As tarefas são semelhantes em termos de propósito (modelagem e simulação de sistemas com autômatos finitos), o que permite o reuso direto das seguintes competências:
+To address the learning objectives of Task201, we reused the following competencies originally defined for Task01 – *The Vending Machine for Sodas and Snacks*, due to the conceptual and technical similarities between the tasks (e.g., finite automata modeling and simulation):
 
-* Develop problem solutions using Automata
-  * Justificativa: A Task201 requer modelar o comportamento do sistema do drone com autômatos finitos. A competência A cobre design, construção e validação desses modelos.
+- **EdukNow_C12 – Develop problem solutions using Finite Finite State Machines**  
+  *Justification:* Task201 requires the development of a real-world prototype that models the surveillance behavior of a drone using Finite State Machines (FSMs). Students must analyze system requirements and construct a formal FSM that represents event detection, control actions, and data transmission. This competence directly supports the ability to design, implement, and validate FSM-based computational solutions that are logically consistent and verifiable. Its specific focus on FSMs makes it highly aligned with the learning objectives and deliverables of the task, including simulation, rule derivation, and formal justification of state minimization strategies.
 
-  * Conhecimentos: Finite State Machines, Requirements Engineering, Critical Thinking. 
+- **EdukNow_C06 – Justify the use of Deterministic Finite Automata (DFAs)**  
+  *Justification:* The task challenges students to evaluate and justify the suitability of FSMs in representing drone behavior. This involves comparing different automaton models (DFA vs. NFA), understanding trade-offs, and selecting the most appropriate model for a real-world application—core aspects of this competency.
 
-* Justify the use of Deterministic Finite Automata (DFAs)
-  * Justificativa: A Task201 exige justificar como os alunos chegaram à decisão de usar autômatos finitos, o que envolve diferenciar modelos determinísticos.
+- **EdukNow_C07 – Test Automata Using Simulators**  
+  *Justification:* One of the deliverables includes simulated executions of the automaton model using JFLAP. This aligns perfectly with the competency, which emphasizes systematic testing, verification, and iterative refinement of FSMs through simulation tools.
 
-  * Conhecimentos: DFAs, Requirements Engineering, Critical Thinking.
+- **EdukNow_C08 – Define Regular Expressions for Finite Automata**  
+  *Justification:* The task includes the design of a mathematical expression or formula to estimate states and transitions, which supports abstraction and reasoning about FSM structure. Though not directly requesting a regular expression, this activity aligns with the analytical dimension of mapping behavior to symbolic representations.
 
-* Test automata using simulators
-  * Justificativa: A entrega inclui um arquivo JFLAP e simulações do comportamento do drone, exatamente o que essa competência cobre.
+- **EdukNow_C04 – Write a Technical Report**  
+  *Justification:* Students are required to produce a structured technical report in SBC format that documents system modeling, simulation, and analysis. This aligns with the competency’s focus on effective written communication of technical artifacts.
 
-  * Conhecimentos: Finite State Machines, Modeling and Simulation, Problem Solving.
-
-* Define Regular Expressions for Finite Automata
-  * Justificativa: A Task201 menciona a criação de uma expressão matemática (regular expression) representando o comportamento do sistema.
-
-  * Conhecimentos: Regular Expressions, Finite State Machines, Analytical Thinking.
-
-* Write a technical report
-  * Justificativa: O produto inclui um relatório técnico no formato da SBC. Esta competência cobre todas as habilidades envolvidas.
-
-  * Conhecimentos: Written Communication.
-
+- **EdukNow_C13 – Identify Patterns in Finite State Machines** 
+  *Justification:* The estimation of minimal states and transitions requires identifying patterns or regularities in FSM behavior. This competency supports structural analysis to simplify or optimize models, which is a key step in abstracting general rules from specific models.

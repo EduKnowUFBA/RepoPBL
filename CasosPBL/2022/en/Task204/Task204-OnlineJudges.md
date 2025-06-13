@@ -1,13 +1,8 @@
-Aqui está a versão em **Markdown** do enunciado do **Problema 4: Juízes Online na Logistic Solutions**, estruturado para facilitar leitura, reutilização e integração com relatórios e materiais educacionais:
-
----
-
 # Problem 4: Online Judges at Logistic Solutions
 
 **Authors**: Lais Salvador, Edeyson A. Gomes, Luiz Gavaza
 **Date**: June 8, 2022
 
----
 
 ## 1. Problem
 
@@ -43,7 +38,7 @@ The main challenge is to:
 1. Analyze why the TSP codes return **TLE**, and how to achieve **AC**.
 2. Design a **Finite State Machine** that represents the OJ’s logic and explains its limitations, especially the theoretical impossibility of detecting infinite loops.
 
----
+
 
 ## 2. Deliverables
 
@@ -66,7 +61,7 @@ The team must submit a **report in SBC article format** containing all analyses 
 
 The report must be clear, well-organized, and connect practical issues to the theoretical concepts from the course.
 
----
+
 
 ## 3. Schedule
 
@@ -78,7 +73,6 @@ The report must be clear, well-organized, and connect practical issues to the th
 | 27/06    | Tutorial Session 4 – Problem 4 |
 | 27/06    | Final Submission               |
 
----
 
 ## 4. Learning Resources
 
@@ -91,7 +85,7 @@ The report must be clear, well-organized, and connect practical issues to the th
 * **VIEIRA, Newton José**
   *Linguagens e Máquinas: Uma Introdução aos Fundamentos da Computação*, 2004.
 
----
+
 
 ## 5. Concepts Involved
 
@@ -102,7 +96,7 @@ The report must be clear, well-organized, and connect practical issues to the th
 5. P, NP, and NP-Complete Problems
 6. Finite State Machine
 
----
+
 
 ## 6. Learning Objectives
 

@@ -153,7 +153,7 @@ Students must demonstrate the ability to:
 * **Revise and polish the report collaboratively**, integrating peer feedback and adhering to presentation standards.
 
 
----
+----
  ## Table of Competencies for Task: *The Vending Machine for Sodas and Snacks*
 
 | **ID**  | **Competency** | **Dispositions** | **Knowledge** | **Skill** |
