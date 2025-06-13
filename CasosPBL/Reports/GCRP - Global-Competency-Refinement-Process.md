@@ -42,11 +42,11 @@ The **Global Competency Refinement Process (GCRP)** is introduced as a complemen
 The following hierarchical structure emerged from the global analysis conducted after the full CSP-CSRP cycles—including **Tasks 01–05** and **Tasks 201–204**:
 
 ```
-Develop Problem-Solving Solutions Using Automata
+C05: Develop Problem-Solving Solutions Using Automata
 │
-├── Develop Problem-Solving Solutions Using Finite State Machines (FSM)
-├── Develop Problem-Solving Solutions Using Pushdown Automata (PDA)
-└── Develop Problem-Solving Solutions Using Turing Machines (TM)
+├── C12: Develop Problem-Solving Solutions Using Finite State Machines (FSM)
+├── C14: Develop Problem-Solving Solutions Using Pushdown Automata (PDA)
+└── C09: Develop Problem-Solving Solutions Using Turing Machines (TM)
 ```
 
 In this structure, **Develop Problem-Solving Solutions Using Automata** is defined as a **meta-competence** that subsumes three task-specific competencies, each corresponding to a formal computational model within the **Chomsky Hierarchy**.
